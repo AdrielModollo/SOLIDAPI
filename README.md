@@ -1,5 +1,7 @@
 "# SOLIDAPI" 
 
+A ideia do Yarn é melhorar o tempo de download dos pacotes, pois o NPM é conhecido por ser lento nas restaurações das dependências e inclusive sendo possível resolver dependências sem o uso da internet usando o cache local.
+
 yarn init -y
 
 yarn install
