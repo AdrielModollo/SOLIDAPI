@@ -37,3 +37,5 @@ yarn add @types/express -D <- (Adicionar tipagem, para saber o que tem exatament
 yarn start <- (executa nossa api)
 
 yarn add uuidv4 <- (Bibilioteca universal para gerar ID único)
+
+yarn add nodemailer (Ferramenta comum para enviar emails dentro do node).
