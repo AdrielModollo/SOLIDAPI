@@ -20,7 +20,7 @@ elas devem depender de interfaces.
 
 A ideia do Yarn é melhorar o tempo de download dos pacotes, pois o NPM é conhecido por ser lento nas restaurações das dependências e inclusive sendo possível resolver dependências sem o uso da internet usando o cache local.
 
-=========================CONFIGURAÇÕES=================================
+==========CONFIGURAÇÕES============
 
 yarn init -y
 
@@ -41,3 +41,14 @@ yarn add uuidv4 <- (Bibilioteca universal para gerar ID único)
 yarn add nodemailer (Ferramenta comum para enviar emails dentro do node).
 
 yarn add @types/nodemailer -D
+
+Utilizar insominia designer para testar:
+Create -> Blank Document -> SOLIDAPI -> New Request -> Create User / POST / JSON -> DEBUG:
+{
+	"name": "Adriel Modollo",
+	"email": "adrielmodollo@outlook.com",
+	"password": "1234567"
+}
+
+SEND
+
