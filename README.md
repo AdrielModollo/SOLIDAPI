@@ -12,4 +12,4 @@ yarn add typescript ts-node-dev -D <-(para ambiente de desenvolvimento)
 
 yarn tsc --init <- (criar o arquivo tsconfig.json)
 
-yarn add &types/express -D (Adicionar tipagem, para saber o que tem exatamente lá dentro)
+yarn add @types/express -D (Adicionar tipagem, para saber o que tem exatamente lá dentro)
