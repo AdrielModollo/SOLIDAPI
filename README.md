@@ -1,6 +1,6 @@
 "# SOLIDAPI" 
 
-Solid é um conjunto de 5 principios. 
+Solid é um conjunto de 5 principios..
 
 1°Single Responsibility principle - Responsável por executar uma única responsabilidade ou tarefa. 
 
